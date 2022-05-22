@@ -1,4 +1,5 @@
-prva
-vtora
-treta
-cetvrta
+first
+second
+third
+fourth
+fifth
